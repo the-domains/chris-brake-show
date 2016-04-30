@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T21:14:52.933Z'
-dateModified: '2016-04-30T21:14:16.141Z'
+datePublished: '2016-04-30T21:15:46.367Z'
+dateModified: '2016-04-30T21:15:32.115Z'
 title: Download the MP3
 author: []
+sourcePath: _posts/2016-04-30-download-the-mp3.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-04-30-download-the-mp3.md
-published: true
 url: download-the-mp3/index.html
 _type: Article
 
